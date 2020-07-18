@@ -1,2 +1,2 @@
-# git-curse
+# git-course
  primeiro repositório versionado
